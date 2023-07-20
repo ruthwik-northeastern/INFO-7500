@@ -1,0 +1,41 @@
+.AuctionInfo {
+  display: block;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+  padding: 0 20px;
+  box-sizing: border-box;
+  background-color: #e1bebe;
+  border-top: 5px solid rgb(0, 0, 0);
+}
+
+.AuctionInfo label{
+  margin-bottom: 10px;
+  font-weight: bold;
+  margin: 10px;
+  padding-left: 10px;
+}
+
+.AuctionInfo input {
+  padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+    margin: 10px;
+}
+
+.AuctionInfo .address-button {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.AuctionInfo .address-button:hover {
+  background-color: #999;
+}
+

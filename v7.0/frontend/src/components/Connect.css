@@ -1,0 +1,58 @@
+.button_and_account {
+    display: block;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 5px auto;
+    background-color: bisque;
+  }
+
+
+  
+  .connect-button {
+    background-color: green; /* updated color */
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+    margin-left: 60px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    width: 120px;
+  }
+  
+  .disconnect-button {
+    background-color: red; /* updated color */
+    border: none;
+    border-radius: 5px;
+    color: #fff;
+    font-size: 16px;
+    padding: 10px 20px;
+    transition: all 0.3s ease;
+    margin-left: 30px;
+    margin-top: 20px; 
+    margin-bottom: 20px;
+    width: 120px;
+  }
+  
+  .connect-button:hover, .disconnect-button:hover {
+    opacity: 0.8; /* updated effect */
+    cursor: pointer;
+  }
+
+  .button_and_account label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    margin: 10px;
+    padding-left: 10px;
+  }
+
+  .button_and_account input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+    margin: 10px;
+  }
+  

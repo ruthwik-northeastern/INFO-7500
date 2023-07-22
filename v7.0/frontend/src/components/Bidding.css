@@ -1,0 +1,40 @@
+.Bidding {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 100%;
+    background-color: lightblue;
+    border-top: 5px solid rgb(0, 0, 0);
+    border-bottom: 5px solid rgb(0, 0, 0);
+    margin-bottom: 50px;
+}
+
+.Bidding label {
+    margin-bottom: 10px;
+    font-weight: bold;
+    margin: 10px;
+    padding-left: 10px;
+}
+
+.Bidding input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    
+    margin: 10px;
+}
+
+.Bidding .bid-button {
+    background-color: black;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.Bidding .bid-button:hover {
+    background-color: #999;
+}

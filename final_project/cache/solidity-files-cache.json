@@ -12,7 +12,7 @@
   },
   "files": {
     "lib/forge-std/lib/ds-test/src/test.sol": {
-      "lastModificationDate": 1681462095508,
+      "lastModificationDate": 1691542324640,
       "contentHash": "9febff9d09f18af5306669dc276c4c43",
       "sourceName": "lib/forge-std/lib/ds-test/src/test.sol",
       "solcConfig": {
@@ -22,6 +22,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -39,7 +40,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -47,12 +48,12 @@
       "versionRequirement": ">=0.5.0",
       "artifacts": {
         "DSTest": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "test.sol/DSTest.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "test.sol/DSTest.json"
         }
       }
     },
     "lib/forge-std/src/Base.sol": {
-      "lastModificationDate": 1681462094127,
+      "lastModificationDate": 1691542324642,
       "contentHash": "8f04bbbb2c16f79e14fdc321695a8ec2",
       "sourceName": "lib/forge-std/src/Base.sol",
       "solcConfig": {
@@ -62,6 +63,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -79,7 +81,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -90,18 +92,18 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Base.sol/CommonBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Base.sol/ScriptBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Base.sol/TestBase.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Base.sol/TestBase.json"
         }
       }
     },
     "lib/forge-std/src/StdAssertions.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324642,
       "contentHash": "6cc2858240bcd443debbbf075490e325",
       "sourceName": "lib/forge-std/src/StdAssertions.sol",
       "solcConfig": {
@@ -111,6 +113,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -128,7 +131,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -139,12 +142,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdAssertions": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdAssertions.sol/StdAssertions.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdAssertions.sol/StdAssertions.json"
         }
       }
     },
     "lib/forge-std/src/StdChains.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324643,
       "contentHash": "94ba68ea5c34509e1355d69df27597ce",
       "sourceName": "lib/forge-std/src/StdChains.sol",
       "solcConfig": {
@@ -154,6 +157,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -171,7 +175,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -181,12 +185,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdChains.sol/StdChains.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdChains.sol/StdChains.json"
         }
       }
     },
     "lib/forge-std/src/StdCheats.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324643,
       "contentHash": "1f7c1fe2f20a051b847336e1630e4bb5",
       "sourceName": "lib/forge-std/src/StdCheats.sol",
       "solcConfig": {
@@ -196,6 +200,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -213,7 +218,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -224,15 +229,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
     },
     "lib/forge-std/src/StdError.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324644,
       "contentHash": "64c896e1276a291776e5ea5aecb3870a",
       "sourceName": "lib/forge-std/src/StdError.sol",
       "solcConfig": {
@@ -242,6 +247,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -259,7 +265,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -267,12 +273,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdError": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdError.sol/stdError.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdError.sol/stdError.json"
         }
       }
     },
     "lib/forge-std/src/StdInvariant.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324644,
       "contentHash": "12c06010ec43ce935ed209d5aca30828",
       "sourceName": "lib/forge-std/src/StdInvariant.sol",
       "solcConfig": {
@@ -282,6 +288,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -299,7 +306,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -307,12 +314,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdInvariant": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdInvariant.sol/StdInvariant.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdInvariant.sol/StdInvariant.json"
         }
       }
     },
     "lib/forge-std/src/StdJson.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324644,
       "contentHash": "2e1d13674e152408867795362d833c24",
       "sourceName": "lib/forge-std/src/StdJson.sol",
       "solcConfig": {
@@ -322,6 +329,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -339,7 +347,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -349,12 +357,12 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdJson.sol/stdJson.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdJson.sol/stdJson.json"
         }
       }
     },
     "lib/forge-std/src/StdMath.sol": {
-      "lastModificationDate": 1681462094128,
+      "lastModificationDate": 1691542324645,
       "contentHash": "9da8f453eba6bb98f3d75bc6822bfb29",
       "sourceName": "lib/forge-std/src/StdMath.sol",
       "solcConfig": {
@@ -364,6 +372,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -381,7 +390,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -389,12 +398,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdMath.sol/stdMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdMath.sol/stdMath.json"
         }
       }
     },
     "lib/forge-std/src/StdStorage.sol": {
-      "lastModificationDate": 1681462094129,
+      "lastModificationDate": 1691542324645,
       "contentHash": "3cb9868082df39a53927db09dbc21f23",
       "sourceName": "lib/forge-std/src/StdStorage.sol",
       "solcConfig": {
@@ -404,6 +413,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -421,7 +431,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -431,15 +441,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStorage.sol/stdStorageSafe.json"
         }
       }
     },
     "lib/forge-std/src/StdStyle.sol": {
-      "lastModificationDate": 1681462094129,
+      "lastModificationDate": 1691542324645,
       "contentHash": "820e6f6b7704f0c980fae604b1e34b18",
       "sourceName": "lib/forge-std/src/StdStyle.sol",
       "solcConfig": {
@@ -449,6 +459,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -466,7 +477,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -476,12 +487,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "StdStyle": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdStyle.sol/StdStyle.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdStyle.sol/StdStyle.json"
         }
       }
     },
     "lib/forge-std/src/StdUtils.sol": {
-      "lastModificationDate": 1681462094129,
+      "lastModificationDate": 1691542324645,
       "contentHash": "d5ff36b0cdb1b976dd77ae53fe96d0c6",
       "sourceName": "lib/forge-std/src/StdUtils.sol",
       "solcConfig": {
@@ -491,6 +502,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -508,7 +520,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -519,12 +531,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "StdUtils.sol/StdUtils.json"
         }
       }
     },
     "lib/forge-std/src/Test.sol": {
-      "lastModificationDate": 1681462094129,
+      "lastModificationDate": 1691542324646,
       "contentHash": "bc9d74a0c612e1c2b66cca2973bcc803",
       "sourceName": "lib/forge-std/src/Test.sol",
       "solcConfig": {
@@ -534,6 +546,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -551,7 +564,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -576,12 +589,12 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Test": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Test.sol/Test.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Test.sol/Test.json"
         }
       }
     },
     "lib/forge-std/src/Vm.sol": {
-      "lastModificationDate": 1681462094129,
+      "lastModificationDate": 1691542324646,
       "contentHash": "68cca88e2df06231acff7abb1f6bdea6",
       "sourceName": "lib/forge-std/src/Vm.sol",
       "solcConfig": {
@@ -591,6 +604,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -608,7 +622,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -616,15 +630,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Vm.sol/Vm.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Vm.sol/Vm.json"
         },
         "VmSafe": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Vm.sol/VmSafe.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Vm.sol/VmSafe.json"
         }
       }
     },
     "lib/forge-std/src/console.sol": {
-      "lastModificationDate": 1681462094130,
+      "lastModificationDate": 1691542324646,
       "contentHash": "100b8a33b917da1147740d7ab8b0ded3",
       "sourceName": "lib/forge-std/src/console.sol",
       "solcConfig": {
@@ -634,6 +648,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -651,7 +666,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -659,12 +674,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "console.sol/console.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "console.sol/console.json"
         }
       }
     },
     "lib/forge-std/src/console2.sol": {
-      "lastModificationDate": 1681462094130,
+      "lastModificationDate": 1691542324647,
       "contentHash": "2096b4e5f252c5df9909cccbe3d2da2e",
       "sourceName": "lib/forge-std/src/console2.sol",
       "solcConfig": {
@@ -674,6 +689,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -691,7 +707,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -699,12 +715,12 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "console2.sol/console2.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "console2.sol/console2.json"
         }
       }
     },
     "lib/forge-std/src/interfaces/IMulticall3.sol": {
-      "lastModificationDate": 1681462094131,
+      "lastModificationDate": 1691542324649,
       "contentHash": "7b131ca1ca32ef6378b7b9ad5488b901",
       "sourceName": "lib/forge-std/src/interfaces/IMulticall3.sol",
       "solcConfig": {
@@ -714,6 +730,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -731,7 +748,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -739,53 +756,13 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
-        }
-      }
-    },
-    "src/core/UniswapV2ERC20.sol": {
-      "lastModificationDate": 1681984355850,
-      "contentHash": "03bd7bda9d2436ad194dd13ba7580e2c",
-      "sourceName": "src/core/UniswapV2ERC20.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": null,
-      "artifacts": {
-        "UniswapV2ERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2ERC20.sol/UniswapV2ERC20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IMulticall3.sol/IMulticall3.json"
         }
       }
     },
     "src/core/UniswapV2Factory.sol": {
-      "lastModificationDate": 1681999145487,
-      "contentHash": "126261ee64ccd2cc4d280e84e1c38774",
+      "lastModificationDate": 1691542324966,
+      "contentHash": "4a48b5624fb2e4523480663bfc593e59",
       "sourceName": "src/core/UniswapV2Factory.sol",
       "solcConfig": {
         "settings": {
@@ -794,6 +771,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -811,7 +789,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -825,13 +803,13 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "UniswapV2Factory": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Factory.sol/UniswapV2Factory.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Factory.sol/UniswapV2Factory.json"
         }
       }
     },
     "src/core/UniswapV2Pair.sol": {
-      "lastModificationDate": 1681999287849,
-      "contentHash": "7afd553ba4a27744991efd1c7e44c679",
+      "lastModificationDate": 1691542324966,
+      "contentHash": "d01befbad4a3a1e8080271f949311cf0",
       "sourceName": "src/core/UniswapV2Pair.sol",
       "solcConfig": {
         "settings": {
@@ -840,6 +818,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -857,7 +836,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -869,15 +848,15 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Pair.sol/IERC20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Pair.sol/IERC20.json"
         },
         "UniswapV2Pair": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Pair.sol/UniswapV2Pair.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Pair.sol/UniswapV2Pair.json"
         }
       }
     },
     "src/core/interfaces/IERC20.sol": {
-      "lastModificationDate": 1681988800141,
+      "lastModificationDate": 1691542324967,
       "contentHash": "6f8cb32b871d44e5e775864270943a4d",
       "sourceName": "src/core/interfaces/IERC20.sol",
       "solcConfig": {
@@ -887,6 +866,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -904,7 +884,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -912,12 +892,12 @@
       "versionRequirement": null,
       "artifacts": {
         "IERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "interfaces/IERC20.sol/IERC20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "interfaces/IERC20.sol/IERC20.json"
         }
       }
     },
     "src/core/interfaces/IUniswapV2Callee.sol": {
-      "lastModificationDate": 1681984181438,
+      "lastModificationDate": 1691542324967,
       "contentHash": "30b04340c13de1071e0fb150b1d54d68",
       "sourceName": "src/core/interfaces/IUniswapV2Callee.sol",
       "solcConfig": {
@@ -927,6 +907,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -944,7 +925,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -952,12 +933,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Callee": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Callee.sol/IUniswapV2Callee.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Callee.sol/IUniswapV2Callee.json"
         }
       }
     },
     "src/core/interfaces/IUniswapV2ERC20.sol": {
-      "lastModificationDate": 1681984180243,
+      "lastModificationDate": 1691542324967,
       "contentHash": "8e6c22cb0b03e5b86b4435fdc338387e",
       "sourceName": "src/core/interfaces/IUniswapV2ERC20.sol",
       "solcConfig": {
@@ -967,6 +948,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -984,7 +966,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -992,12 +974,12 @@
       "versionRequirement": null,
       "artifacts": {
         "IUniswapV2ERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2ERC20.sol/IUniswapV2ERC20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2ERC20.sol/IUniswapV2ERC20.json"
         }
       }
     },
     "src/core/interfaces/IUniswapV2Factory.sol": {
-      "lastModificationDate": 1681901840258,
+      "lastModificationDate": 1691542324967,
       "contentHash": "79c10a09c525e524159e551dab11ca6f",
       "sourceName": "src/core/interfaces/IUniswapV2Factory.sol",
       "solcConfig": {
@@ -1007,6 +989,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1024,7 +1007,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1032,12 +1015,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Factory": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Factory.sol/IUniswapV2Factory.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Factory.sol/IUniswapV2Factory.json"
         }
       }
     },
     "src/core/interfaces/IUniswapV2Pair.sol": {
-      "lastModificationDate": 1681995992848,
+      "lastModificationDate": 1691542324968,
       "contentHash": "edd5f2db8054040577455489047e80ca",
       "sourceName": "src/core/interfaces/IUniswapV2Pair.sol",
       "solcConfig": {
@@ -1047,6 +1030,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1064,7 +1048,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1072,12 +1056,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Pair": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Pair.sol/IUniswapV2Pair.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Pair.sol/IUniswapV2Pair.json"
         }
       }
     },
     "src/core/libraries/Babylonian.sol": {
-      "lastModificationDate": 1681984179116,
+      "lastModificationDate": 1691542324968,
       "contentHash": "1a70b7351f55cbe5361e10690b7c6989",
       "sourceName": "src/core/libraries/Babylonian.sol",
       "solcConfig": {
@@ -1087,6 +1071,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1104,7 +1089,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1112,12 +1097,12 @@
       "versionRequirement": null,
       "artifacts": {
         "Babylonian": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Babylonian.sol/Babylonian.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Babylonian.sol/Babylonian.json"
         }
       }
     },
     "src/core/libraries/BitMath.sol": {
-      "lastModificationDate": 1681984178195,
+      "lastModificationDate": 1691542324968,
       "contentHash": "f7d436eb636e04609df69875d30ac871",
       "sourceName": "src/core/libraries/BitMath.sol",
       "solcConfig": {
@@ -1127,6 +1112,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1144,7 +1130,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1152,12 +1138,12 @@
       "versionRequirement": null,
       "artifacts": {
         "BitMath": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "BitMath.sol/BitMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "BitMath.sol/BitMath.json"
         }
       }
     },
     "src/core/libraries/FixedPoint.sol": {
-      "lastModificationDate": 1681984176753,
+      "lastModificationDate": 1691542324969,
       "contentHash": "2c8f4268fcdd938e73d19893ced19ae8",
       "sourceName": "src/core/libraries/FixedPoint.sol",
       "solcConfig": {
@@ -1167,6 +1153,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1184,7 +1171,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1192,12 +1179,12 @@
       "versionRequirement": null,
       "artifacts": {
         "FixedPoint": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "FixedPoint.sol/FixedPoint.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "FixedPoint.sol/FixedPoint.json"
         }
       }
     },
     "src/core/libraries/FullMath.sol": {
-      "lastModificationDate": 1681984175738,
+      "lastModificationDate": 1691542324969,
       "contentHash": "4d106c7115cdf28b9724f62211862ad9",
       "sourceName": "src/core/libraries/FullMath.sol",
       "solcConfig": {
@@ -1207,6 +1194,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1224,7 +1212,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1232,12 +1220,12 @@
       "versionRequirement": null,
       "artifacts": {
         "FullMath": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "FullMath.sol/FullMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "FullMath.sol/FullMath.json"
         }
       }
     },
     "src/core/libraries/Math.sol": {
-      "lastModificationDate": 1681995353841,
+      "lastModificationDate": 1691542324969,
       "contentHash": "e71182420a5a8d83bedb46e4acf9043a",
       "sourceName": "src/core/libraries/Math.sol",
       "solcConfig": {
@@ -1247,6 +1235,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1264,7 +1253,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1272,12 +1261,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "Math": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "Math.sol/Math.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "Math.sol/Math.json"
         }
       }
     },
     "src/core/libraries/SafeMath.sol": {
-      "lastModificationDate": 1681984174343,
+      "lastModificationDate": 1691542324969,
       "contentHash": "cdadc2113456c2484ee00614c6211abe",
       "sourceName": "src/core/libraries/SafeMath.sol",
       "solcConfig": {
@@ -1287,6 +1276,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1304,7 +1294,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1312,12 +1302,12 @@
       "versionRequirement": null,
       "artifacts": {
         "SafeMath": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "libraries/SafeMath.sol/SafeMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "libraries/SafeMath.sol/SafeMath.json"
         }
       }
     },
     "src/core/libraries/TransferHelper.sol": {
-      "lastModificationDate": 1681984173537,
+      "lastModificationDate": 1691542324970,
       "contentHash": "3ee649664513496186d236e4a0fee6b6",
       "sourceName": "src/core/libraries/TransferHelper.sol",
       "solcConfig": {
@@ -1327,6 +1317,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1344,7 +1335,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1352,12 +1343,12 @@
       "versionRequirement": null,
       "artifacts": {
         "TransferHelper": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "TransferHelper.sol/TransferHelper.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "TransferHelper.sol/TransferHelper.json"
         }
       }
     },
     "src/core/libraries/UQ112x112.sol": {
-      "lastModificationDate": 1681984172458,
+      "lastModificationDate": 1691542324970,
       "contentHash": "bc29680770838417809705a358df9505",
       "sourceName": "src/core/libraries/UQ112x112.sol",
       "solcConfig": {
@@ -1367,6 +1358,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1384,7 +1376,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1392,12 +1384,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "UQ112x112": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UQ112x112.sol/UQ112x112.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UQ112x112.sol/UQ112x112.json"
         }
       }
     },
     "src/core/test/MyERC20.sol": {
-      "lastModificationDate": 1681995235715,
+      "lastModificationDate": 1691542324971,
       "contentHash": "153193f57bb53e3410a65899dc7416c1",
       "sourceName": "src/core/test/MyERC20.sol",
       "solcConfig": {
@@ -1407,6 +1399,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1424,7 +1417,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1432,52 +1425,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "MyERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "MyERC20.sol/MyERC20.json"
-        }
-      }
-    },
-    "src/core/test/UniswapV2ERC20.t.sol": {
-      "lastModificationDate": 1681984163902,
-      "contentHash": "4929c4eb6df5024cac46664646328473",
-      "sourceName": "src/core/test/UniswapV2ERC20.t.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": null,
-      "artifacts": {
-        "UniswapV2ERC20.t": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2ERC20.t.sol/UniswapV2ERC20.t.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "MyERC20.sol/MyERC20.json"
         }
       }
     },
     "src/core/test/UniswapV2Factory.t.sol": {
-      "lastModificationDate": 1682006889925,
+      "lastModificationDate": 1691542324971,
       "contentHash": "d2ab100e9ea733259e87e43460f3f316",
       "sourceName": "src/core/test/UniswapV2Factory.t.sol",
       "solcConfig": {
@@ -1487,6 +1440,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1504,7 +1458,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1537,12 +1491,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "UniswapV2FactoryTest": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Factory.t.sol/UniswapV2FactoryTest.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Factory.t.sol/UniswapV2FactoryTest.json"
         }
       }
     },
     "src/core/test/UniswapV2Pair.t.sol": {
-      "lastModificationDate": 1682008381230,
+      "lastModificationDate": 1691542324971,
       "contentHash": "b8892e970c72883d495a388d62da7d2f",
       "sourceName": "src/core/test/UniswapV2Pair.t.sol",
       "solcConfig": {
@@ -1552,6 +1506,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1569,7 +1524,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1602,96 +1557,16 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "TestingContract": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Pair.t.sol/TestingContract.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Pair.t.sol/TestingContract.json"
         },
         "UniswapV2PairTest": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Pair.t.sol/UniswapV2PairTest.json"
-        }
-      }
-    },
-    "src/periphery/UniswapV2Migrator.sol": {
-      "lastModificationDate": 1681995257226,
-      "contentHash": "c02c4a1a222f73e6041d9785d0eaa6f6",
-      "sourceName": "src/periphery/UniswapV2Migrator.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": null,
-      "artifacts": {
-        "UniswapV2Migrator": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Migrator.sol/UniswapV2Migrator.json"
-        }
-      }
-    },
-    "src/periphery/UniswapV2Router01.sol": {
-      "lastModificationDate": 1681820327137,
-      "contentHash": "ed3f96a53b6e04b3966761f9ed2a5f5a",
-      "sourceName": "src/periphery/UniswapV2Router01.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": null,
-      "artifacts": {
-        "UniswapV2Router01": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Router01.sol/UniswapV2Router01.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Pair.t.sol/UniswapV2PairTest.json"
         }
       }
     },
     "src/periphery/UniswapV2Router02.sol": {
-      "lastModificationDate": 1682007569312,
-      "contentHash": "9421724f65439c91227553556a8e1a33",
+      "lastModificationDate": 1691542324972,
+      "contentHash": "c114ac84f5366a6a9ab0cd0934ea5af8",
       "sourceName": "src/periphery/UniswapV2Router02.sol",
       "solcConfig": {
         "settings": {
@@ -1700,6 +1575,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1717,7 +1593,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1733,12 +1609,12 @@
       "versionRequirement": "^0.8.10",
       "artifacts": {
         "UniswapV2Router02": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Router02.sol/UniswapV2Router02.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Router02.sol/UniswapV2Router02.json"
         }
       }
     },
     "src/periphery/interfaces/IERC20.sol": {
-      "lastModificationDate": 1681819541598,
+      "lastModificationDate": 1691542324973,
       "contentHash": "8a8380b7717515bb08216c7bbeaecb8e",
       "sourceName": "src/periphery/interfaces/IERC20.sol",
       "solcConfig": {
@@ -1748,6 +1624,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1765,7 +1642,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1773,12 +1650,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IERC20": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IERC20.sol/IERC20.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IERC20.sol/IERC20.json"
         }
       }
     },
     "src/periphery/interfaces/IUniswapV2Migrator.sol": {
-      "lastModificationDate": 1681819544548,
+      "lastModificationDate": 1691542324973,
       "contentHash": "11e3dd9ebd6ade3d948ab295fffa5e30",
       "sourceName": "src/periphery/interfaces/IUniswapV2Migrator.sol",
       "solcConfig": {
@@ -1788,6 +1665,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1805,7 +1683,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1813,12 +1691,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Migrator": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Migrator.sol/IUniswapV2Migrator.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Migrator.sol/IUniswapV2Migrator.json"
         }
       }
     },
     "src/periphery/interfaces/IUniswapV2Router01.sol": {
-      "lastModificationDate": 1681822085089,
+      "lastModificationDate": 1691542324973,
       "contentHash": "79e8b4f3510d2ff06b3f411dbec567a4",
       "sourceName": "src/periphery/interfaces/IUniswapV2Router01.sol",
       "solcConfig": {
@@ -1828,6 +1706,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1845,7 +1724,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1853,12 +1732,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Router01": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Router01.sol/IUniswapV2Router01.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Router01.sol/IUniswapV2Router01.json"
         }
       }
     },
     "src/periphery/interfaces/IUniswapV2Router02.sol": {
-      "lastModificationDate": 1681819842133,
+      "lastModificationDate": 1691542324974,
       "contentHash": "61d37eaa27209770b1d112e4040c4368",
       "sourceName": "src/periphery/interfaces/IUniswapV2Router02.sol",
       "solcConfig": {
@@ -1868,6 +1747,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1885,7 +1765,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1895,12 +1775,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV2Router02": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV2Router02.sol/IUniswapV2Router02.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV2Router02.sol/IUniswapV2Router02.json"
         }
       }
     },
     "src/periphery/interfaces/IWETH.sol": {
-      "lastModificationDate": 1681819843826,
+      "lastModificationDate": 1691542324974,
       "contentHash": "828d8068903a1ab52cd9bdb317a431b9",
       "sourceName": "src/periphery/interfaces/IWETH.sol",
       "solcConfig": {
@@ -1910,6 +1790,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1927,7 +1808,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1935,12 +1816,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IWETH": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IWETH.sol/IWETH.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IWETH.sol/IWETH.json"
         }
       }
     },
     "src/periphery/interfaces/V1/IUniswapV1Exchange.sol": {
-      "lastModificationDate": 1681819534442,
+      "lastModificationDate": 1691542324974,
       "contentHash": "3d7449d14d94671f22b2248cc6b94d29",
       "sourceName": "src/periphery/interfaces/V1/IUniswapV1Exchange.sol",
       "solcConfig": {
@@ -1950,6 +1831,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -1967,7 +1849,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -1975,12 +1857,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV1Exchange": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV1Exchange.sol/IUniswapV1Exchange.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV1Exchange.sol/IUniswapV1Exchange.json"
         }
       }
     },
     "src/periphery/interfaces/V1/IUniswapV1Factory.sol": {
-      "lastModificationDate": 1681819536907,
+      "lastModificationDate": 1691542324975,
       "contentHash": "7816d523fcd6c24b57bea5db5aaede72",
       "sourceName": "src/periphery/interfaces/V1/IUniswapV1Factory.sol",
       "solcConfig": {
@@ -1990,6 +1872,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -2007,7 +1890,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -2015,12 +1898,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "IUniswapV1Factory": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "IUniswapV1Factory.sol/IUniswapV1Factory.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "IUniswapV1Factory.sol/IUniswapV1Factory.json"
         }
       }
     },
     "src/periphery/libraries/SafeMath.sol": {
-      "lastModificationDate": 1681995326340,
+      "lastModificationDate": 1691542324975,
       "contentHash": "8f3cb5a40f4271c18f0393472a4d54a2",
       "sourceName": "src/periphery/libraries/SafeMath.sol",
       "solcConfig": {
@@ -2030,6 +1913,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -2047,7 +1931,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -2055,12 +1939,12 @@
       "versionRequirement": "^0.8.19",
       "artifacts": {
         "SafeMath": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "SafeMath.sol/SafeMath.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "SafeMath.sol/SafeMath.json"
         }
       }
     },
     "src/periphery/libraries/UniswapV2Library.sol": {
-      "lastModificationDate": 1682007430782,
+      "lastModificationDate": 1691542324976,
       "contentHash": "b5b84da912239a13b3fe394f808b3dd0",
       "sourceName": "src/periphery/libraries/UniswapV2Library.sol",
       "solcConfig": {
@@ -2070,6 +1954,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -2087,7 +1972,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -2102,12 +1987,12 @@
       "versionRequirement": "^0.8.10",
       "artifacts": {
         "UniswapV2Helper": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Library.sol/UniswapV2Helper.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Library.sol/UniswapV2Helper.json"
         }
       }
     },
     "src/periphery/libraries/UniswapV2LiquidityMathLibrary.sol": {
-      "lastModificationDate": 1681995295225,
+      "lastModificationDate": 1691542324976,
       "contentHash": "70926138890294c3824d0d740e48b741",
       "sourceName": "src/periphery/libraries/UniswapV2LiquidityMathLibrary.sol",
       "solcConfig": {
@@ -2117,6 +2002,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -2134,7 +2020,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -2142,53 +2028,13 @@
       "versionRequirement": null,
       "artifacts": {
         "UniswapV2LiquidityMathLibrary": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2LiquidityMathLibrary.sol/UniswapV2LiquidityMathLibrary.json"
-        }
-      }
-    },
-    "src/periphery/libraries/UniswapV2OracleLibrary.sol": {
-      "lastModificationDate": 1681995299846,
-      "contentHash": "96e344040a7b83d297ab6ec7e3fe8e74",
-      "sourceName": "src/periphery/libraries/UniswapV2OracleLibrary.sol",
-      "solcConfig": {
-        "settings": {
-          "optimizer": {
-            "enabled": true,
-            "runs": 200
-          },
-          "metadata": {
-            "bytecodeHash": "ipfs",
-            "appendCBOR": true
-          },
-          "outputSelection": {
-            "*": {
-              "": [
-                "ast"
-              ],
-              "*": [
-                "abi",
-                "evm.bytecode",
-                "evm.deployedBytecode",
-                "evm.methodIdentifiers",
-                "metadata"
-              ]
-            }
-          },
-          "evmVersion": "london",
-          "libraries": {}
-        }
-      },
-      "imports": [],
-      "versionRequirement": null,
-      "artifacts": {
-        "UniswapV2OracleLibrary": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2OracleLibrary.sol/UniswapV2OracleLibrary.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2LiquidityMathLibrary.sol/UniswapV2LiquidityMathLibrary.json"
         }
       }
     },
     "src/periphery/test/UniswapV2Router02.t.sol": {
-      "lastModificationDate": 1682008305491,
-      "contentHash": "bddeb2093ccf6351f4af9fab85342923",
+      "lastModificationDate": 1691542324977,
+      "contentHash": "8024d2c5fe9de25a9dd3e34bea8e68d6",
       "sourceName": "src/periphery/test/UniswapV2Router02.t.sol",
       "solcConfig": {
         "settings": {
@@ -2197,6 +2043,7 @@
             "runs": 200
           },
           "metadata": {
+            "useLiteralContent": false,
             "bytecodeHash": "ipfs",
             "appendCBOR": true
           },
@@ -2214,7 +2061,7 @@
               ]
             }
           },
-          "evmVersion": "london",
+          "evmVersion": "paris",
           "libraries": {}
         }
       },
@@ -2250,7 +2097,7 @@
       "versionRequirement": "^0.8.10",
       "artifacts": {
         "UniswapV2RouterTest": {
-          "0.8.19+commit.7dd6d404.Darwin.appleclang": "UniswapV2Router02.t.sol/UniswapV2RouterTest.json"
+          "0.8.21+commit.d9974bed.Darwin.appleclang": "UniswapV2Router02.t.sol/UniswapV2RouterTest.json"
         }
       }
     }
